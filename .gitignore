@@ -1,16 +1,25 @@
-*.com
+# Compiled class file
 *.class
-*.dll
-*.exe
-*.o
-*.so
-*.class
-*.pub
-*.7z
-*.dmg
-*.gz
-*.iso
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
 *.jar
-*.rar
-*.tar
+*.war
+*.ear
 *.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# other
+*.pub
